@@ -1,6 +1,6 @@
 # Hello, I'm Maher Mawlawi
 
-I am a 2nd year computer science student at the Lebanese American University (LAU) in jbeil  
+I am a senior computer science student at the Lebanese American University (LAU) in jbeil  
 
 ## Languages
 
