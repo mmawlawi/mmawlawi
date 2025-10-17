@@ -1,6 +1,6 @@
 # Hello, I'm Maher Mawlawi
 
-I am a senior computer science student at the Lebanese American University (LAU) in jbeil  
+I am a Data engineer at Areeba. I graduated wi5h a degree in computer science from the Lebanese American University (LAU) in jbeil  
 
 ## Languages
 
